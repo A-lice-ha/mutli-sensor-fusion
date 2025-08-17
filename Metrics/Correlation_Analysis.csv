@@ -1,0 +1,17 @@
+"Fused","Input","Correlation"
+"Fused_Enhanced","red",0.403225305024823
+"Fused_Enhanced","green",0.450041235578812
+"Fused_Enhanced","blue",0.516561850172849
+"Fused_Enhanced","nir",0.14794729670958
+"Fused_Enhanced","swir1",0.362583889678057
+"Fused_Enhanced","tir",0.795884360456505
+"Fused_Enhanced","VV",0.287709092593044
+"Fused_Enhanced","VH",0.431770130588423
+"Fused_TR_Lap","red",0.805329442369241
+"Fused_TR_Lap","green",0.714902695831561
+"Fused_TR_Lap","blue",0.768109948961571
+"Fused_TR_Lap","nir",-0.0861627962653292
+"Fused_TR_Lap","swir1",0.859560358735991
+"Fused_TR_Lap","tir",0.988662881051722
+"Fused_TR_Lap","VV",0.0263975052778905
+"Fused_TR_Lap","VH",0.00371703365543152
