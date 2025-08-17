@@ -1,2 +1,6 @@
-# mutli-sensor-fusion
-Fusing Landsat (thermal/visible) &amp; Sentinel-1 (microwave) using weighted averaging and Laplacian pyramid decomposition
+# Multisensor Image Fusion
+
+## Project Overview
+Fusion of Landsat (thermal/visible) and Sentinel-1 (microwave) data using:
+- Weighted average fusion
+- Laplacian pyramid decomposition
