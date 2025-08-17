@@ -1,0 +1,8 @@
+Use Google Earth Engine or USGS Earth Explorer to downaload data.
+I prefer GEE as data can be customized to specific needs.
+
+For this project, I used Landsat 9 (therm + vis) and Sentinel 1 (microwave).
+1. Location - Bhopal
+2. Date- Feb, 2023
+
+I used Lee speckle filter for Sentinel 1, it reduces preprocessing time greatly.
